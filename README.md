@@ -11,7 +11,7 @@ Die neueste Version steht auch oben auf der Website.
 So postest du eine Patchnote (Schreibrecht im Repository nötig):
 
 1. **Releases** → **Draft a new release**.
-2. Unter **Choose a tag** die neue Version anlegen, im Schema `beta-0.5.0`
+2. Unter **Choose a tag** die neue Version anlegen, im Schema `0.5.0-beta`
    (Fehlerbehebungen: letzte Zahl hoch, neue Inhalte: mittlere, große Umbauten: erste).
    Nicht als „pre-release“ markieren, sonst zeigt die Website sie nicht als neueste Version.
 3. Titel wie „Berufe-Rework“, darunter die Änderungen als Liste.
